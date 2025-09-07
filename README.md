@@ -29,7 +29,7 @@ Ferns and Petals (FNP) wants to analyze its 2023 sales data to understand custom
 - Verified and cleaned the dataset for missing values, anomalies, and inconsistencies.  
 - Ensured uniformity in data types, date formats, and monetary values.  
 - Created pivot tables and charts to answer each KPI.  
-- Combined all insights into a single interactive dashboard with slicers for **Order Date, Delivery Date, and Occasion**.  
+- Combined all insights into a single interactive dashboard with timelines for **Order Date, Delivery Date,** and slicer for **Occasion**.  
 
 ---
 
