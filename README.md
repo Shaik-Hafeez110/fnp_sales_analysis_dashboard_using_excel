@@ -6,7 +6,7 @@ Ferns and Petals (FNP) wants to analyze its 2023 sales data to understand custom
 ---
 
 ## 📂 Dataset Used  
-- <a href="https://github.com/Shaik-Hafeez110/fnp_sales_analysis_dashboard_using_excel/tree/main/fnp_datasets"**FNP Sales Dataset (2023)**</a>
+- <a href="https://github.com/Shaik-Hafeez110/fnp_sales_analysis_dashboard_using_excel/tree/main/fnp_datasets">FNP Sales Dataset (2023)</a>
 
 ---
 
