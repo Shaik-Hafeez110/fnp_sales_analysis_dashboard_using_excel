@@ -35,7 +35,7 @@ Ferns and Petals (FNP) wants to analyze its 2023 sales data to understand custom
 
 ## 📊 Dashboard
 
-!<img width="1825" height="814" alt="486492276-ae939fa8-511a-46df-a17c-26b75e3fbe34" src="https://github.com/user-attachments/assets/5666d648-8c12-46b3-98a4-706f9f48e5e9" />
+<img width="1825" height="814" alt="486492276-ae939fa8-511a-46df-a17c-26b75e3fbe34" src="https://github.com/user-attachments/assets/5666d648-8c12-46b3-98a4-706f9f48e5e9" />
 
 ---
 
