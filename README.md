@@ -20,7 +20,8 @@ Ferns and Petals (FNP) wants to analyze its 2023 sales data to understand custom
 7. Which cities place the maximum number of orders?  
 8. How does sales performance vary month by month?  
 9. What is the revenue trend based on order hours?  
-10. Which are the top-performing occasions and categories overall?  
+10. Which are the top-performing occasions and categories overall?
+11. Dashboard Interaction:<a href="https://github.com/Shaik-Hafeez110/fnp_sales_analysis_dashboard_using_excel/blob/main/fnp_dashboard.png">View Dashboard</a>
 
 ---
 
@@ -33,7 +34,7 @@ Ferns and Petals (FNP) wants to analyze its 2023 sales data to understand custom
 ---
 
 ## 📊 Dashboard
-<img width="1825" height="814" alt="Screenshot 2025-09-06 234533" src="https://github.com/user-attachments/assets/0cf76cf1-c07c-420f-a16e-9b9342cfade3" />
+<img width="1825" height="814" alt="fnp_dashboard" src="https://github.com/user-attachments/assets/223f8925-e2e9-4d5c-8d0f-c7dd7038c7de" />
 
 
 ---
